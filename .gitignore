@@ -1,5 +1,7 @@
 vendor
+var
 logs
 cache
+sql
 .idea
 composer.lock
