@@ -1,0 +1,10 @@
+{
+    "require": {
+        "plumephp/plume": "dev-master"
+    },
+    "autoload": {
+            "psr-4": {
+                "": "modules/"
+            }
+    }
+}
